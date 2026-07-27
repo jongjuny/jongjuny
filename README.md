@@ -1,5 +1,8 @@
 # Hi, I'm Jongjun Park
-
+<img src="./assets/profile.jpg"
+     alt="Jongjun Park"
+     width="150"
+     align="right">
 I am a Ph.D. candidate in Computer Science at McMaster University, advised by [Prof. Fei Chiang](https://db.cas.mcmaster.ca). My research focuses on reliable machine learning for temporal and non-stationary data, especially anomaly detection, concept drift, and multivariate time-series analysis.
 
 Before beginning my Ph.D., I worked in industrial R&D on embedded systems, wireless sensor networks, and the Internet of Things, and later contributed to digital government and disaster ICT policy in Korea. I also enjoy teaching database systems and mentoring students in programming and software development.
