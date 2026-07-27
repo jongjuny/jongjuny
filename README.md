@@ -1,5 +1,5 @@
 # Hi, I'm Jongjun Park
-<img src="./assets/profile.jpg"
+<img src="./img/profile.png"
      alt="Jongjun Park"
      width="150"
      align="right">
