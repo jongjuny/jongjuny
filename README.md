@@ -1,6 +1,6 @@
 # Hi, I'm Jongjun Park
 
-I am a Ph.D. candidate in Computer Science at McMaster University, advised by [Prof. Fei Chiang](https://www.eng.mcmaster.ca/cas/people/faculty/fei-chiang/). My research focuses on reliable machine learning for temporal and non-stationary data, especially anomaly detection, concept drift, and multivariate time-series analysis.
+I am a Ph.D. candidate in Computer Science at McMaster University, advised by [Prof. Fei Chiang](https://db.cas.mcmaster.ca). My research focuses on reliable machine learning for temporal and non-stationary data, especially anomaly detection, concept drift, and multivariate time-series analysis.
 
 Before beginning my Ph.D., I worked in industrial R&D on embedded systems, wireless sensor networks, and the Internet of Things, and later contributed to digital government and disaster ICT policy in Korea. I also enjoy teaching database systems and mentoring students in programming and software development.
 
@@ -24,6 +24,9 @@ Before beginning my Ph.D., I worked in industrial R&D on embedded systems, wirel
 
 - **Projecting Household-Scale Utility Usage: A Case Study Using a Long-Term Data Set**  
   Jongjun Park, Hyunhak Kim, Taewook Heo, Seung-Mok Yoo, and JeongGil Ko. *International Journal of Sensor Networks*, 2016.
+
+- **Improving the packet delivery performance for concurrent packet transmissions in WSNs**  
+  Jongjun Park, Jongsoo Jeong, Hoon Jeong, Chieh-Jan Mike Liang, JeongGil Ko. *IEEE communications letters*, 2013.
 
 More publications are available on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=Yom5MikAAAAJ).
 
