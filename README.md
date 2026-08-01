@@ -22,7 +22,7 @@ Before beginning my Ph.D., I worked in industrial R&D on embedded systems, wirel
 - **POSTECH**
   - M.S. in Electronic Engineering
   - B.S. in Electrical and Electronic Engineering
-  - 
+    
 ## Selected publications
 
 - **AnDri: A System for Anomaly and Drift co-Detection**  
