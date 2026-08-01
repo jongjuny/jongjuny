@@ -14,6 +14,15 @@ Before beginning my Ph.D., I worked in industrial R&D on embedded systems, wirel
 - Data-efficient learning with sparse, irregular, or partially labeled data
 - Multivariate and spatio-temporal time-series modeling
 
+### Education
+
+- **McMaster University**
+  - Ph.D. Candidate in Computer Science
+
+- **POSTECH**
+  - M.S. in Electronic Engineering
+  - B.S. in Electrical and Electronic Engineering
+  - 
 ## Selected publications
 
 - **AnDri: A System for Anomaly and Drift co-Detection**  
